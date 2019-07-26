@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountriesMVVM</string>
+    <string name="error_text">An error occured while loading Data.</string>
+</resources>
